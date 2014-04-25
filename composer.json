@@ -2,12 +2,6 @@
     "name": "jumplink/magento-mongo",
     "type": "magento-module",
     "description": "MongoDb abstraction layer and atomic job queue for Magento",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url" : "git@github.com:colinmollenhour/mongodb-php-odm.git"
-        }
-    ],
     "authors": [
         {
             "name": "Colin Mollenhour",
