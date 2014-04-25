@@ -1,5 +1,5 @@
 {
-    "name": "colinmollenhour/magento-mongo",
+    "name": "jumplink/magento-mongo",
     "type": "magento-module",
     "description": "MongoDb abstraction layer and atomic job queue for Magento",
     "repositories": [
