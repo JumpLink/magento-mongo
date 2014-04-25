@@ -1,0 +1,25 @@
+{
+    "name": "colinmollenhour/magento-mongo",
+    "type": "magento-module",
+    "description": "MongoDb abstraction layer and atomic job queue for Magento",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/magento-hackathon/magento-composer-installer"
+        },
+        {
+            "type": "vcs",
+            "url" : "git@github.com:colinmollenhour/mongodb-php-odm.git"
+        }
+    ],
+    "require": {
+      "magento-hackathon/magento-composer-installer":"*"
+    },
+    "license": "Custom (see LICENSE.txt)",
+    "authors": [
+        {
+            "name": "Colin Mollenhour",
+            "email": ""
+        }
+    ]
+}
