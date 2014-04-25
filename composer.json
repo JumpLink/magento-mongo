@@ -5,21 +5,16 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/magento-hackathon/magento-composer-installer"
-        },
-        {
-            "type": "vcs",
             "url" : "git@github.com:colinmollenhour/mongodb-php-odm.git"
         }
     ],
     "require": {
-      "magento-hackathon/magento-composer-installer":"*"
     },
     "license": "proprietary",
     "authors": [
         {
             "name": "Colin Mollenhour",
-            "email": ""
+            "email": "please@replace.this"
         }
     ]
 }
