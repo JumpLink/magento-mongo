@@ -15,7 +15,7 @@
     "require": {
       "magento-hackathon/magento-composer-installer":"*"
     },
-    "license": "Custom (see LICENSE.txt)",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Colin Mollenhour",
